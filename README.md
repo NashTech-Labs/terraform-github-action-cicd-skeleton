@@ -1,6 +1,6 @@
 #### Get the plan on PR using Github actions (check .github/workflows/deploy.yml)
 
-![alt text](https://github.com/knoldus/terraform-github-action-cicd-skeleton/blob/main/terraform-github-actions-cicd-skeleton.png?raw=true)
+![alt text](https://github.com/knoldus/terraform-github-action-cicd-skeleton/blob/main/github-actions-cicd-skeleton.png?raw=true)
 
 #### Check github actions workflow 
 URL - https://github.com/knoldus/terraform-github-action-cicd-skeleton/blob/main/.github/workflows/deploy.yml
